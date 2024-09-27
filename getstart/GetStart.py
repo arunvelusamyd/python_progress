@@ -1,3 +1,10 @@
+w=4
+x=5
+b=9
+f=w*x+9
+print(f)
+print(w**4)
+print(w/2)
 def helloFunction():
     print("This is my first function")
     print("Bye!")
